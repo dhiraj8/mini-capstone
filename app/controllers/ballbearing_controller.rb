@@ -1,0 +1,2 @@
+class BallbearingController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class Ballbearing < ApplicationRecord
+end
